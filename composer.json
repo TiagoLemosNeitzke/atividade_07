@@ -1,0 +1,17 @@
+{
+    "name": "tiago_pop_os/php",
+    "description": "atividade 07",
+    "type": "project",
+    "autoload": {
+        "psr-4": {
+            "TiagoPopOs\\Php\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Tiago Lemos Neitzke",
+            "email": "tl.neitzke@hotmail.com"
+        }
+    ],
+    "require": {}
+}
